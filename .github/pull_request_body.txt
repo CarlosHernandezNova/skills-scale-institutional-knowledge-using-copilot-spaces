@@ -1,0 +1,29 @@
+## Description
+
+This pull request creates a centralized README for the OctoAcme Project Management documentation suite, addressing the need for a unified entry point for all process documentation.
+
+### What's included:
+
+1. **OctoAcme Process Summary** — A comprehensive overview covering:
+   - Project lifecycle (Initiation → Planning → Execution → Release → Retrospective)
+   - Core roles and responsibilities (Project Managers, Product Managers, Developers, QA)
+   - Communication strategies and escalation paths
+   - Quality assurance and testing practices
+
+2. **Navigation Structure** — Quick links organized by:
+   - Core principles
+   - Project lifecycle phases
+   - Complete documentation index
+   - Use case-specific guidance for different roles
+
+3. **Key Artifacts Reference** — Documentation of project management artifacts used throughout OctoAcme
+
+### Benefits:
+
+- ✅ Reduces onboarding friction with clear documentation map
+- ✅ Improves discoverability of scattered process documentation
+- ✅ Establishes context before diving into specific process docs
+- ✅ Aligns with project goals of centralizing institutional knowledge
+- ✅ Enables self-service learning for team members
+
+Closes #2
