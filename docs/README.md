@@ -64,4 +64,4 @@ OctoAcme operates on five core principles:
 - **Weekly PM + PdM sync** — Alignment and decision-making
 - **Twice-weekly delivery team standups** — Or as agreed
 - **Monthly stakeholder updates** — Status and announcements
-- **Ad-hoc escalations** — As needed for risks and blockers
+- **Ad-hoc escalations** — As needed for risks and blockers asdfadfadsfadf 
